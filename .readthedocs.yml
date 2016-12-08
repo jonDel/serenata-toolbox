@@ -5,5 +5,5 @@ formats:
 python:
     version: 3
 python:
-    setup_py_install: false
+    setup_py_install: true
     # Changed to false due to issue https://github.com/rtfd/readthedocs.org/issues/2542
