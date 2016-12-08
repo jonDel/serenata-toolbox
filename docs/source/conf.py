@@ -30,6 +30,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__name__), '..'))
 sys.path.append(os.path.join(os.path.dirname(__name__), '../serenata_toolbox'))
 sys.path.append(os.path.abspath('../../serenata_toolbox'))
+sys.path.append(os.path.join(os.path.dirname(__name__), '../../serenata_toolbox'))
 print 'test py3 execution'
 
 
