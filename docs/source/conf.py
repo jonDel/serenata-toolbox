@@ -29,6 +29,8 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__name__), '..'))
 sys.path.append(os.path.join(os.path.dirname(__name__), '../serenata_toolbox'))
+sys.path.append(os.path.abspath('../serenata_toolbox'))
+
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
